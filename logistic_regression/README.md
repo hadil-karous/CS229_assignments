@@ -73,7 +73,7 @@ Make sure the data files (`ex2data1.txt`, `ex2data2.txt`) are in the same direct
 ### 📘 References
 
 * Andrew Ng — *Machine Learning (Coursera / Stanford CS229)*
-* [Regularization Explained (PDF)](logistic_regression/RegularizationExplained.pdf)
+* [Regularization Explained (PDF)](RegularizationExplained.pdf)
 
 ---
 
